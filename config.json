@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6285156402391@s.whatsapp.net","6285156402391@s.whatsapp.net"],
+    "ownerName": "Denny",
+    "instagram" : "https://instagram.com/-",
+    "gcwa" : "https://instabio.cc/-",
+    "botName": "Denny",
+    "footer": "2023 © 2malam",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "nnYw47mpsjpuAyn",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 10000,
+        "user": 15
+    }
+}
